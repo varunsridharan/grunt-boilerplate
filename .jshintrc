@@ -1,0 +1,26 @@
+{
+	"devel"    : true,
+	"boss"     : true,
+	"curly"    : true,
+	"eqeqeq"   : true,
+	"eqnull"   : true,
+	"es3"      : true,
+	"expr"     : true,
+	"immed"    : true,
+	"noarg"    : true,
+	"onevar"   : true,
+	//"quotmark" : "single",
+	"node"   : true,
+	"trailing" : true,
+	"undef"    : true,
+	"unused"   : false,
+	"browser"  : true,
+	"globals"  : {
+		"devel"    : true,
+		"_"        : false,
+		"Backbone" : false,
+		"jQuery"   : false,
+		"JSON"     : false,
+		"wp"       : false
+	}
+}
