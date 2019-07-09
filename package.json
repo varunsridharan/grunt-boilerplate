@@ -19,7 +19,7 @@
   "devDependencies": {
     "@babel/core": "^7.5.0",
     "@babel/preset-env": "^7.5.2",
-    "autoprefixer": "~8.6.2",
+    "autoprefixer": "~9.6.1",
     "babel": "^6.5.2",
     "babel-cli": "^6.14.0",
     "babel-eslint": "^9.0.0",
