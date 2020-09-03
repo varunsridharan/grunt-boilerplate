@@ -17,7 +17,7 @@
     "test:single": "cross-env NODE_CONFIG_DIR='./tests/e2e-tests/config' BABEL_ENV=commonjs mocha --require babel-register"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.0",
+    "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.5.5",
     "autoprefixer": "~9.6.1",
     "babel": "^6.5.2",
